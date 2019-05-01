@@ -1,3 +1,3 @@
-# An-implementation-of-Kmeans-Algorithm-by-R-
+# An-implementation-of-Kmeans-Algorithm-by-using-R-
 [R Code](https://github.com/CubatLin/An-implementation-of-Kmeans-Algorithm-by-R-/blob/master/kmeans_MIACadm.R)
 ![image](https://github.com/CubatLin/An-implementation-of-Kmeans-Algorithm-by-R-/blob/master/KmeansVisulization.jpeg)
